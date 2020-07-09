@@ -1,0 +1,39 @@
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.exe
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.deps.json
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.json
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\Aula13 Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfo.cs
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\Aula13 Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.genruntimeconfig.cache
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.exe
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.deps.json
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.json
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfo.cs
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\PC\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.genruntimeconfig.cache
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.exe
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.deps.json
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.json
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.AssemblyInfo.cs
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.dll
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.pdb
+C:\Users\NdL\Desktop\GERAL\Senai\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13 Uber.genruntimeconfig.cache
